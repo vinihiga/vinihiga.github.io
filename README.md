@@ -1,5 +1,4 @@
-# Hi,
-# I'm Vinícius "Vini" H. Higa
+# About me
 
 I'm a Sr. iOS Software Engineer with 7 years of experience.
 
